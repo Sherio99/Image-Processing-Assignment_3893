@@ -11,6 +11,15 @@ Each operation is performed on a color image, with visual comparison and output 
 
 ---
 
+## 📦 Registration Details
+
+```
+Name     : DIAS B.R.S.T  
+Reg No.  : EG/2020/3893  
+
+```
+---
+
 ## 📦 Required Libraries
 
 ```python
